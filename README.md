@@ -1,6 +1,6 @@
 ---
 post_title: 'README'
-layout: post
+layout: page
 published: true
 ---
 # documentation
