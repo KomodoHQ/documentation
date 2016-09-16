@@ -9,11 +9,11 @@ permalink: >
   http://documentation.komododigital.dev/sample-documents/
 published: true
 sidebar:
-  - 'a:1:{i:0;s:0:"";}'
+  - ""
 footer:
-  - 'a:1:{i:0;s:0:"";}'
+  - ""
 header_title_bar:
-  - 'a:1:{i:0;s:0:"";}'
+  - ""
 header_transparency:
-  - 'a:1:{i:0;s:0:"";}'
+  - ""
 ---
