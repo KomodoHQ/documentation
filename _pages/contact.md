@@ -6,7 +6,7 @@ post_date: 2014-08-29 02:09:43
 post_excerpt: ""
 layout: page
 permalink: >
-  http://documentation.komododigital.dev/contact-2/
+  http://documentation.komododigital.dev/contact/
 published: true
 sidebar:
   - ""
