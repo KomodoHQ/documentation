@@ -18,7 +18,7 @@ header_title_bar:
   - ""
   - ""
 header_transparency:
-  - header_transparent
-  - header_transparent
+  - ""
+  - ""
 ---
 Contact page
