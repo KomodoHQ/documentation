@@ -6,7 +6,7 @@ post_date: 2016-09-16 10:19:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://documentation.komododigital.dev/readme/
+  http://documentation.komododigital.dev/sample-documents/readme/
 published: true
 sidebar:
   - ""
