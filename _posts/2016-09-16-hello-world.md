@@ -6,7 +6,7 @@ post_date: 2016-09-16 08:36:42
 post_excerpt: ""
 layout: post
 permalink: >
-  http://documentation.komododigital.dev/?p=1
+  http://documentation.komododigital.dev/hello-world/
 published: true
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
