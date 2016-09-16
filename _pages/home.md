@@ -5,8 +5,7 @@ author: admin
 post_date: 2014-08-29 01:32:00
 post_excerpt: ""
 layout: page
-permalink: >
-  http://documentation.komododigital.dev/home/
+permalink: http://documentation.komododigital.dev/
 published: true
 sidebar:
   - ""

@@ -8,5 +8,13 @@ layout: page
 permalink: >
   http://documentation.komododigital.dev/readme/
 published: true
+sidebar:
+  - ""
+footer:
+  - ""
+header_title_bar:
+  - ""
+header_transparency:
+  - ""
 ---
 # documentation Documentation for KomodoHQ Build Products. Test edit.
