@@ -6,11 +6,7 @@ post_date: 2016-09-16 10:19:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://documentation.komododigital.dev/readme-md/
+  http://documentation.komododigital.dev/readme/
 published: true
 ---
-# documentation
-
-Documentation for KomodoHQ Build Products.
-
-Test edit.
+# documentation Documentation for KomodoHQ Build Products. Test edit.
