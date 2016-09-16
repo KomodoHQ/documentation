@@ -8,4 +8,12 @@ layout: page
 permalink: >
   http://documentation.komododigital.dev/sample-documents/
 published: true
+sidebar:
+  - ""
+footer:
+  - ""
+header_title_bar:
+  - ""
+header_transparency:
+  - ""
 ---
